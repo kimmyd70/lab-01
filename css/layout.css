@@ -1,0 +1,20 @@
+header, section, footer, #blocks{
+    width: 480px;
+    height: 75px;
+    margin: 0px auto;
+}
+
+section {
+    height: 150px;
+    
+}
+
+#blocks {
+    display: inline-block;
+}
+
+#e, #f, #g, #h {
+    width: 240px;
+    height: 250px;
+}
+

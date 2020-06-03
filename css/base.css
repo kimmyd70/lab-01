@@ -1,0 +1,15 @@
+body {
+    background-color:whitesmoke;
+    margin: auto;
+    text-align: center;
+}
+
+header, section, footer, #e, #f, #g, #h {
+    background-color:lightgray;
+    border: 0.5px solid gray;
+    border-bottom: none;
+};
+
+footer {
+    border-bottom: 0.5px solid gray;
+}
