@@ -24,3 +24,7 @@ desktop:
 
 mobile:
 ![mobile wireframe](./img/mobile-view.png)
+
+SMACCS rules:
+![SMACCS](./img/SMACSS-rules.png)
+
