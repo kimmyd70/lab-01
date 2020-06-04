@@ -1,0 +1,87 @@
+/* State changes for screen 768-960 and larger */
+
+@media screen and (min-width: 768px){
+
+    .block {
+        width: 189.5px;
+        height: 250px;
+    }
+
+        
+    body, header, section {
+        width: 960px;
+        color: whitesmoke
+    }
+
+    main {
+        width: 962px;
+    }
+    
+    header, section, aside {
+        background-color: #000000;
+        /* border-right: .5px solid gray; */
+
+        
+    }
+    header {
+        height: 100px;
+    }
+    
+    aside {
+        float: left;
+        width: 198px;
+        height: 602.5px;
+    }
+    
+    #c-d {
+        height: 200px;
+    }
+    
+    #c, #d {
+        width: 380px;
+        height: 200px;
+        border-left: none;
+    }
+
+    #c {
+        float: left;
+    }
+
+    #d {
+        float: right;
+
+    }
+
+    #d ::after {
+        clear: left;
+    }
+
+    #e{
+        border-left: none;
+    }
+    
+    #f {
+        border-right: none;
+    }
+    #blocks {
+        width: 962px;
+        height: 250px;
+    }
+
+    #h {
+        width: 189.5px;
+    }
+    footer {
+        float: right;
+        width: 759px;
+        height: 150px;
+        background-color: #000000;
+        margin-top: 0px;
+        margin-bottom: 2em;
+        border: .5 solid gray;
+        border-left: none;
+
+    }
+
+
+};

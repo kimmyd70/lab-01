@@ -1,8 +1,7 @@
 # lab-01
 SMACCS and RWD
 
-I used Placehold.it:  `<img src="http://placehold.it/300.png/000000/ffffff">`(example)
-
+I did some funky math to account for the borders where they occur (0.5px)
 
 
 Instructions: 

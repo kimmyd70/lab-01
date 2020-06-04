@@ -1,11 +1,18 @@
-header, section, #blocks{
+
+
+
+header, section, #blocks, aside{
     width: 480px;
     height: 75px;
     margin: 0px auto;
 }
 
-section {
+aside {
     height: 150px;
+}
+
+#c, #d {
+    height: 125px;
 }
 
 p {
@@ -17,12 +24,11 @@ margin-top: 3em;
 
 }
 
-#e, #f, #g, #h {
+.block {
     
     float: left;
     width: 238px;
     height: 250px;
-
 }
 
 footer {
@@ -31,6 +37,6 @@ footer {
     margin: 427px auto auto;
 }
 
-footer p, header p{
+footer p, header p, #c-d p{
     margin-top: 2em;
 }
