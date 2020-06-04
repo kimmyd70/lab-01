@@ -1,4 +1,4 @@
-header, section, footer, #blocks{
+header, section, #blocks, footer{
     width: 480px;
     height: 75px;
     margin: 0px auto;
@@ -6,15 +6,30 @@ header, section, footer, #blocks{
 
 section {
     height: 150px;
-    
 }
 
-#blocks {
-    display: inline-block;
+p {
+margin-top: 3em;
+}
+
+#blocks p {
+    margin-top: 6em;
+
 }
 
 #e, #f, #g, #h {
-    width: 240px;
+    
+    float: left;
+    width: 238px;
     height: 250px;
+
 }
 
+footer {
+    height: 80px;
+    margin-top: 427px;
+}
+
+footer p, header p{
+    margin-top: 2em;
+}

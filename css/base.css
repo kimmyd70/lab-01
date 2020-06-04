@@ -1,15 +1,22 @@
 body {
     background-color:whitesmoke;
-    margin: auto;
+    margin: 2em auto;
     text-align: center;
 }
 
-header, section, footer, #e, #f, #g, #h {
+header, section, footer {
     background-color:lightgray;
-    border: 0.5px solid gray;
-    border-bottom: none;
+    border-top: 1px solid gray;
+    border-right: 1px solid gray;
+    border-left: 1px solid gray;
+  
 };
 
+#e, #g{
+    border-right: 0px;
+};
+
+
 footer {
-    border-bottom: 0.5px solid gray;
-}
+    border-bottom: 1px solid gray;
+};
