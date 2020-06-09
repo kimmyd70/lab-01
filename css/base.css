@@ -1,19 +1,10 @@
+
+* {
+    margin: 0px auto;
+}
+
 body {
     background-color:whitesmoke;
-    margin: 2em auto;
     text-align: center;
 }
 
-header, section, aside{
-    border-top: .5px solid gray;
-    border-right: .5px solid gray;
-    border-left: .5px solid gray;
-}
-
-#e, #g {
-    border-right: none;
-}
-
-footer {
-    border: 1px solid gray;
-}

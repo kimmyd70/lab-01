@@ -4,7 +4,6 @@
 header, section, #blocks, aside{
     width: 480px;
     height: 75px;
-    margin: 0px auto;
 }
 
 aside {
@@ -15,28 +14,17 @@ aside {
     height: 125px;
 }
 
-p {
-margin-top: 3em;
-}
-
-#blocks p {
-    margin-top: 6em;
-
-}
 
 .block {
     
     float: left;
-    width: 238px;
+    width: 240px;
     height: 250px;
 }
 
 footer {
     width: 480px;
     height: 80px;
-    margin: 427px auto auto;
+    margin-top: 425px;
 }
 
-footer p, header p, #c-d p{
-    margin-top: 2em;
-}
