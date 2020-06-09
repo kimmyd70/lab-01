@@ -3,7 +3,7 @@
 @media screen and (min-width: 768px){
 
     .block {
-        width: 189.5px;
+        width: 190px;
         height: 250px;
     }
 
@@ -23,18 +23,13 @@
     
     aside {
         float: left;
-        width: 198px;
-        height: 602.5px;
+        width: 200px;
+        height: 600px;
     }
-    
-    #c-d {
-        height: 200px;
-    }
-    
+        
     #c, #d {
         width: 380px;
         height: 200px;
-        border-left: none;
     }
 
     #c {
@@ -42,7 +37,7 @@
     }
 
     #d {
-        float: right;
+        float: left;
 
     }
 
@@ -50,29 +45,20 @@
         clear: left;
     }
 
-    #e{
-        border-left: none;
-    }
-    
-    #f {
-        border-right: none;
-    }
     #blocks {
-        width: 962px;
+        width: 960px;
         height: 250px;
     }
 
     #h {
-        width: 189.5px;
+        width: 190px;
     }
     footer {
         float: right;
-        width: 759px;
+        width: 760px;
         height: 150px;
         margin-top: 0px;
         margin-bottom: 2em;
-        border: .5 solid gray;
-        border-left: none;
 
     }
 
