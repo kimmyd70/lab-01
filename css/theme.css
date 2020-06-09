@@ -1,0 +1,64 @@
+.christmas {
+    background-color: red;
+}
+.christmas-2{
+    background-color: green;
+}
+
+.christmas-3 {
+    background-color: silver;
+}
+
+.ocean {
+    background-color: teal;
+}
+.ocean-2 {
+    background-color: skyblue;
+}
+.ocean-3 {
+    background-color: seagreen;
+}
+.ocean-4 {
+    background-color: greenyellow;
+}
+.ocean-5 {
+    background-color: tan;
+}
+.dark {
+    background-color:gray;
+}
+
+@media screen and (min-width: 768px){
+    .christmas {
+        background-color: silver;
+    }
+    .christmas-2{
+        background-color: red;
+    }
+    
+    .christmas-3 {
+        background-color: green;
+    }
+    
+    .ocean {
+        background-color: tan;
+        
+    }
+    .ocean-2 {
+        background-color: teal;
+        
+    }
+    .ocean-3 {
+        background-color: skyblue;
+    }
+    .ocean-4 {
+        background-color: seagreen;
+    }
+    .ocean-5 {
+        background-color: greenyellow;
+       
+    }
+    .dark {
+        background-color: gray;
+    }
+}
